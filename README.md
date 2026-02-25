@@ -45,3 +45,7 @@ graph TD
 
 ## 🤝 Contributing
 PRs focusing on tensor optimization and integration with new depth-sensor hardware are heavily appreciated.
+
+## ?? Future Roadmap & Enhancements
+- **Dynamic Obstacle Trajectory Prediction**
+- **Shift data preprocessing of Point Clouds to C++ CUDA kernels**
